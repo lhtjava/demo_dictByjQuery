@@ -1,0 +1,64 @@
+
+
+テーブル名　	　tblnm
+
+キー	値
+key val
+a		あ
+b	い
+う	c
+	d	英字		
+
+
+---
+テーブル名1 table1
+1	123
+3         			劉 
+-
+CPADちふれカレンダーマスタ	ETCHC8P			
+予備２	T8YB2S		
+作成端末ID    				T8ENTE	
+更新時刻	T8CHAH	
+更新者	T8CHAC	
+
+
+------
+テーブル２  表2
+usermemberid	password
+cpad	cpad
+cpad2	cpad
+cpad3	cpad
+cpad4	cpad
+cpad5	cpad
+cpad6	cpad
+pwd     pass
+cpad7	cpad
+cpad8	cpad
+cpad9	cpad
+-
+詳細区分
+表3					tbl3 llht
+cpadx1			　値１    lht
+cpadx2			　値２    lht
+cpadx3			　値３    lht
+cpadx4			　値４    lht
+cpadx5			　値５    lht
+cpadx6			　値６    lht
+cpadx7			　値７    lht
+cpadx8			　値８    lht
+cpadx9			　値９  
+
+
+---------
+テスト4
+
+あいう　かきく　sdkjflasjd	kk 　	値９
+あいう　かきく　123t    	sdkjflasjd	kk
+あいう　かきく　 *   	sdkjflasjd	kk
+いうえ　かきく　123t    	sdkjflasjd	kk
+あいう　かきく　123t    	sdkjflasjd	*
+あいう　かきく　123t    	sdkjflasjd	kk
+あいう　かきく　123t    	sdkjflasjd	kk
+あいう　かきく　123t    	sdkjflasjd	kk
+あいう　かきく　123t    	sdkjflasjd	kk
+あいう　かきく　123          dkjflasjd	kks

@@ -1,0 +1,41 @@
+* {
+	font-family: msgothic, monospace;
+	font-size: 10pt;
+}
+
+input {
+	margin-top: 10px;
+}
+
+table {
+	width: 600px;
+	display: none;
+	border-collapse: collapse;
+	text-align: center;
+	margin-top: 20px;
+}
+
+/*tr:nth-child(1) {*/
+th {
+	background-color: #CCBBFF;
+}
+
+th, td {
+	width: 300px;
+	height: 20px;
+	border: 1px solid black;
+	padding: 3px;
+}
+
+.selected_tr {
+  background-color: #FFFF33;
+}
+.selected_td {
+  color: red;
+  font-weight: 900;
+  font-size: 130%;
+}
+
+span {
+	font-size:90%;
+}
